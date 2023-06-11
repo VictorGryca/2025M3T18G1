@@ -12,11 +12,19 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 #### (preencha aqui os nomes dos integrantes, em ordem alfabética, separados por vírgula)
 
 ## Sumário
-[1 - Introdução](#c1)
+[1. Introdução](#c1)
 
-[2 - Objetivos e Justificativa](#c2)
+[2. Objetivos e Justificativa](#c2)
 
-[3 - Metodologia](#c3)
+[3. Metodologia](#c3)
+
+[4. Desenvolvimento e Resultados](#c4)
+
+[5. Conclusões e Recomendações](#c5)
+
+[6. Referências](#c6)
+
+[Anexos](#attachments)
 
 
 ## <a name="c1"></a>1. Introdução
@@ -62,7 +70,7 @@ resultados foram obtidos.
 Remova este bloco ao final
 ```
 
-## 4. Desenvolvimento e Resultados
+## <a name="c4"></a>4. Desenvolvimento e Resultados
 ### 4.1. Compreensão do Problema
 #### 4.1.1. Contexto da indústria 
 ```
@@ -207,7 +215,7 @@ Remova este bloco ao final
 Remova este bloco ao final
 ```
 
-## 5. Conclusões e Recomendações
+## <a name="c5"></a>5. Conclusões e Recomendações
 ```
 Escreva, de forma resumida, sobre os principais resultados do seu 
 projeto e faça recomendações formais ao seu parceiro de negócios em 
@@ -221,7 +229,7 @@ seu parceiro a tratá-las de maneira estratégica e ética.
 Remova este bloco ao final
 ```
 
-## 6. Referências
+## <a name="c6"></a>6. Referências
 ```
 Incluir as principais referências de seu projeto, para que seu 
 parceiro possa consultar caso ele se interessar em aprofundar.
@@ -230,7 +238,7 @@ Não se esqueça de formatar as referências conforme a ABNT.
 Remova este bloco ao final
 ```
 
-## Anexos
+## <a name="attachments"></a>Anexos
 ```
 Utilize esta seção para anexar materiais como manuais de usuário, 
 documentos complementares que ficaram grandes e não couberam no 
