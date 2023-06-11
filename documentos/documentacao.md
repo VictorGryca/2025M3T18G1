@@ -12,14 +12,14 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 #### (preencha aqui os nomes dos integrantes, em ordem alfabética, separados por vírgula)
 
 ## Sumário
-[1. Introdução](https://github.com/Intelihub/Template_M3/edit/main/documentos/documentacao.md#1-introdu%C3%A7%C3%A3o)
+[1 - Introdução](#c1)
 
-[2. Objetivos e Justificativa](https://github.com/Intelihub/Template_M3/edit/main/documentos/documentacao.md#2-objetivos-e-justificativa)
+[2 - Objetivos e Justificativa](#c2)
 
-[3. Metodologia](https://github.com/Intelihub/Template_M3/edit/main/documentos/documentacao.md#3-metodologia)
+[3 - Metodologia](#c3)
 
 
-## 1. Introdução
+## <a name="c1"></a>1. Introdução
 ```
 Apresente de forma sucinta o parceiro de negócio, seu porte, local, área de atuação e 
 posicionamento no mercado. Maiores detalhes deverão ser descritos na seção 4. Descreva 
@@ -28,7 +28,7 @@ resumidamente o problema a ser resolvido (sem ainda mencionar a solução).
 Remova este bloco ao final
 ```
 
-## 2. Objetivos e Justificativa
+## <a name="c2"></a>2. Objetivos e Justificativa
 ### 2.1 Objetivos
 ```
 Descreva resumidamente os objetivos gerais e específicos do seu parceiro de negócios.
@@ -52,7 +52,7 @@ seus benefícios e como ela se diferencia.
 Remova este bloco ao final
 ```
 
-## 3. Metodologia
+## <a name="c3"></a>3. Metodologia
 ```
 Descreva as etapas da metodologia CRISP-DM que foram utilizadas para o 
 desenvolvimento, citando o referencial teórico. Você deve apenas enunciar
