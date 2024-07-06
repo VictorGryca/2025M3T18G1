@@ -1,1 +1,1 @@
-Colocar o Jupyter Notebook do Colab aqui. Remover este arquivo após isso.
+Colocar os arquivos notebook .ipynb aqui. Remover este arquivo após isso.

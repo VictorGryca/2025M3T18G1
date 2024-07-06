@@ -62,9 +62,9 @@ Remova este bloco ao final
 
 ## <a name="c3"></a>3. Metodologia
 ```
-Descreva as etapas da metodologia CRISP-DM que foram utilizadas para o 
-desenvolvimento, citando o referencial teórico. Você deve apenas enunciar
-os métodos, sem dizer ainda como eles foram aplicados, nem quais 
+Descreva a metodologia CRISP-DM e suas etapas de desenvolvimento, 
+citando o referencial teórico. Você deve apenas enunciar os 
+métodos, sem dizer ainda como eles foram aplicados, nem quais 
 resultados foram obtidos.
 
 Remova este bloco ao final
@@ -169,10 +169,11 @@ Remova este bloco ao final
 ### 4.3. Preparação dos Dados e Modelagem
 ```
 Caso seu projeto seja Modelo Supervisionado, apresentar: 
-a) Modelagem para o problema (proposta de features com a explicação 
+a) Organização dos dados (conjunto de treinamento, validação e testes)
+b) Modelagem para o problema (proposta de features com a explicação 
    completa da linha de raciocínio).
-b) Métricas relacionadas ao modelo (conjunto de testes, pelo menos 3).
-c) Apresentar o primeiro modelo candidato, e uma discussão sobre os 
+c) Métricas relacionadas ao modelo (pelo menos 3).
+d) Apresentar o primeiro modelo candidato, e uma discussão sobre os 
    resultados deste modelo (discussão sobre as métricas para esse 
    modelo candidato).
 
@@ -203,12 +204,12 @@ Remova este bloco ao final
 ```
 - Descreva a solução final de modelo preditivo e justifique a escolha. 
   Alinhe sua justificativa com a Seção 4.1, resgatando o entendimento 
-  do negócio e explicando de que formas seu modelo atende os requisitos 
-  e definições. 
+  do negócio e das personas, explicando de que formas seu modelo atende 
+  os requisitos e definições. 
 - Descreva também um plano de contingência para os casos em que o 
   modelo falhar em suas predições.
-- Além disso, discuta sobre a explicabilidade do modelo e realize a 
-  verificação de aceitação ou refutação das hipóteses.
+- Além disso, discuta sobre a explicabilidade do modelo (se aplicável) 
+  e realize a verificação de aceitação ou refutação das hipóteses.
 - Se aplicável, utilize equações, tabelas e gráficos de visualização 
   de dados para melhor ilustrar seus argumentos. 
 
