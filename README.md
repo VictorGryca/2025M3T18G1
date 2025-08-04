@@ -1,5 +1,5 @@
 # Inteli - Instituto de Tecnologia e Liderança 
-oi
+
 
 <p align="center">
 <a href= "https://www.inteli.edu.br/"><img src="assets/inteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
